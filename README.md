@@ -1,4 +1,4 @@
-# Alexander_Lam_test - Ormucov2019
+# Alexander_Lam_test - Ormuco 2019
 
 Hey there! This is my attempt at solving Ormocu's interview coding challenge. Below you will find the problem descriptions along with any notes I may have added to describe my design. 
 
